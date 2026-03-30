@@ -1,5 +1,5 @@
 {
-  "prompt": "A photorealistic, eye-level shot of a door inside a concrete bunker. The door frame is massive, heavy, and reinforced. However, the door itself is made of a single pane of incredibly thin, fragile, cracked glass...",
+  "prompt": "A photorealistic, straight-on shot of a surreal high-security vault. The vault is constructed entirely of stacked, layered sheets of thick paper, including the walls and the massive vault door. The door mimics the design of a traditional steel bank vault, but every element—hinges, wheel lock, rivets, and panels—is made of fragile paper. The paper is slightly wrinkled, with torn edges and faint creases, emphasizing its vulnerability. The vault sits inside a dimly lit concrete chamber, with scraps of torn paper scattered across the floor",
   "model": "DALL·E 3 (via Microsoft Copilot)",
   "paradox": "Goodhart's Law",
   "visual_logic": "The image shows a system optimizing entirely for the metric of 'number of locks' to achieve security, but doing so on a fragile glass door, completely destroying the actual goal of keeping the room safe."
